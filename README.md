@@ -16,7 +16,10 @@ Python • Linux • Networking • Nmap • Wireshark • Burp Suite • Git �
 
 ### 🚀 Featured Project
 
+**ChainSOS**
+**Intelligent Threat Triage Copilot**
 **ORBITAL SHIELD**
+
 
 Cybersecurity toolkit for small-satellite ground stations and mission infrastructure.
 
