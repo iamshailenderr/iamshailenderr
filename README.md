@@ -49,9 +49,12 @@ currently_learning:
   - Vulnerability Assessment
 
 mindset: Learn → Build → Share → Improve
+```
 
 Cybersecurity student interested in security, networking, development, and emerging AI technologies.
+
 I enjoy solving security challenges, exploring CTFs, and turning ideas into practical projects.
+
 Currently focusing on building projects that combine **cybersecurity with AI and automation**.
 
 ---
@@ -64,19 +67,19 @@ Currently focusing on building projects that combine **cybersecurity with AI and
 <img src="https://skillicons.dev/icons?i=python,c,java,js"/>
 </p>
 
-### Frontend & Web
+### Frontend &amp; Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
-### Backend & Database
+### Backend &amp; Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,mysql,mongodb"/>
 </p>
 
-### Cybersecurity & Infrastructure
+### Cybersecurity &amp; Infrastructure
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,docker"/>
@@ -84,7 +87,7 @@ Currently focusing on building projects that combine **cybersecurity with AI and
 
 `Wazuh` `Nmap` `Burp Suite`
 
-### AI & Automation
+### AI &amp; Automation
 
 `Google Gemini` `Python AI/LLM Integration` `n8n`
 
@@ -95,9 +98,9 @@ Currently focusing on building projects that combine **cybersecurity with AI and
 ```text
 Cybersecurity
       ↓
-Programming & Networking
+Programming and Networking
       ↓
-Ethical Hacking & VAPT
+Ethical Hacking and VAPT
       ↓
 Security Operations
       ↓
@@ -110,10 +113,10 @@ Professional Growth
 
 ### 🔍 Currently Exploring
 
-* 🔐 Cybersecurity
-* 🤖 AI & Machine Learning
-* 🛡️ SOC & Threat Detection
-* 🌐 Web Security
+- 🔐 Cybersecurity
+- 🤖 AI and Machine Learning
+- 🛡️ SOC and Threat Detection
+- 🌐 Web Security
 
 ---
 
@@ -126,6 +129,7 @@ Professional Growth
 A Bluetooth-based SOS application designed to help transmit emergency alerts even in areas with limited or no internet connectivity.
 
 **Tech Stack:**
+
 `Flutter` `Dart` `BLE` `SQLite` `Python` `Flask`
 
 **Status:** Completed / Academic Project
@@ -139,21 +143,22 @@ A Bluetooth-based SOS application designed to help transmit emergency alerts eve
 An ongoing cybersecurity project focused on using AI to assist with security alert analysis, threat triage, incident understanding, and security operations.
 
 **Tech Stack:**
+
 `Python` `Wazuh` `Docker` `Google Gemini` `n8n` `Linux`
 
 **Status:** 🚧 Currently Building
 
 ---
 
-## 🏆 Certifications & Competitions
+## 🏆 Certifications &amp; Competitions
 
-* 🎓 Certified in Ethical Hacking — Beginner
-* 🔐 Certified in VAPT — Beginner
-* 🐍 Python Fundamentals
-* 🛡️ Pre Security — TryHackMe
-* 🐧 Linux & Bug Bounty Fundamentals
-* 🎯 Certified Phishing Prevention Specialist
-* 🏴‍☠️ Exploit-X KPR CTF
+- 🎓 Certified in Ethical Hacking — Beginner
+- 🔐 Certified in VAPT — Beginner
+- 🐍 Python Fundamentals
+- 🛡️ Pre Security — TryHackMe
+- 🐧 Linux &amp; Bug Bounty Fundamentals
+- 🎯 Certified Phishing Prevention Specialist
+- 🏴‍☠️ Exploit-X KPR CTF
 
 Also participated in **HackP46lu CTF, KRCE 24-Hours Hackathon, CodeFest 2026, Protothon'26**, and actively participate in OWASP chapters.
 
@@ -164,8 +169,8 @@ Also participated in **HackP46lu CTF, KRCE 24-Hours Hackathon, CodeFest 2026, Pr
 ```yaml
 learning:
   - Cybersecurity
-  - AI & Machine Learning
-  - SOC & Threat Detection
+  - AI and Machine Learning
+  - SOC and Threat Detection
   - Web Security
 
 building:
@@ -190,7 +195,7 @@ goal:
 <div align="center">
 
 <a href="https://github.com/iamshailenderr">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -208,15 +213,15 @@ goal:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shailender-rajan-kadhir-b52030244">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:shailenderrajank@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/iamshailenderr">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -227,10 +232,10 @@ goal:
 
 ### 🚀 Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Cybersecurity+%2B+AI+%E2%9C%A8" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Cybersecurity+%2B+AI+%E2%9C%A8" alt="Footer Animation"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="Footer"/>
 
 </div>
