@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=SHAILENDER%20RAJAN%20K&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=CYBERSECURITY%20STUDENT%20%7C%20SECURITY%20ENTHUSIAST%20%7C%20AI%20%26%20SECURITY%20EXPLORER&amp;descAlignY=58&amp;descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -39,7 +39,7 @@ focus:
   - Cybersecurity
   - Web Security
   - Networking
-  - AI & Threat Detection
+  - AI &amp; Threat Detection
 
 currently_learning:
   - Security Operations
