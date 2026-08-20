@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size:60px;"><strong>SHAILENDER RAJAN K</strong></h1>
+<h1><strong>SHAILENDER RAJAN K</strong></h1>
 
 <h3>CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI &amp; SECURITY EXPLORER</h3>
 
