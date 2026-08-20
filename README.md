@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=SHAILENDER+RAJAN+K" alt="Shailender Rajan K"/>
+<h1><strong>SHAILENDER RAJAN K</strong></h1>
 
-### **CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI & SECURITY EXPLORER**
+<h3>CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI &amp; SECURITY EXPLORER</h3>
 
-</div>
-
-### CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI & SECURITY EXPLORER
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG"/>
 
 <br/><br/>
 
