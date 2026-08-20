@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHAILENDER%20RAJAN%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20STUDENT%20%7C%20SECURITY%20ENTHUSIAST%20%7C%20AI%20%26%20SECURITY%20EXPLORER&descAlignY=58&descSize=16"/>
+# SHAILENDER RAJAN K
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG" />
+### CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI & SECURITY EXPLORER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Exploring+Cybersecurity;Building+Security+Projects;Learning+AI+%26+Threat+Detection;Breaking+%7C+Building+%7C+Learning" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -13,15 +15,15 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/shailender-rajan-kadhir-b52030244">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <a href="mailto:shailenderrajank@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <a href="https://github.com/iamshailenderr">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -39,7 +41,7 @@ focus:
   - Cybersecurity
   - Web Security
   - Networking
-  - AI & Threat Detection
+  - AI and Threat Detection
 
 currently_learning:
   - Security Operations
