@@ -47,7 +47,6 @@ currently_learning:
   - Vulnerability Assessment
 
 mindset: Learn → Build → Share → Improve
-```
 
 Cybersecurity student interested in security, networking, development, and emerging AI technologies.
 I enjoy solving security challenges, exploring CTFs, and turning ideas into practical projects.
