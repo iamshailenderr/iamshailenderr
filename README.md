@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=44&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=SHAILENDER+RAJAN+K;CYBERSECURITY+ENTHUSIAST;AI+%26+SECURITY+EXPLORER" alt="Animated Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=SHAILENDER+RAJAN+K" alt="Shailender Rajan K"/>
+
+### **CYBERSECURITY STUDENT | SECURITY ENTHUSIAST | AI & SECURITY EXPLORER**
 
 </div>
 
